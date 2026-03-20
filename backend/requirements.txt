@@ -1,0 +1,11 @@
+fastapi 
+uvicorn 
+langchain 
+langchain-core 
+langchain-community 
+langchain-groq 
+python-dotenv 
+duckduckgo-search 
+wikipedia 
+arxiv 
+pydantic
