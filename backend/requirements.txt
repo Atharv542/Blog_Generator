@@ -5,7 +5,7 @@ langchain
 langchain-core
 langchain-community
 langchain-groq
-pydantic
+pydantic<2
 wikipedia
 duckduckgo-search
 markdown
