@@ -8,5 +8,6 @@ langchain-groq
 pydantic>=2.6.0
 wikipedia
 duckduckgo-search
+ddgs
 markdown
 arxiv
