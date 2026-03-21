@@ -3,7 +3,7 @@ import InputBox from "../components/InputBox";
 import BlogPreview from "../components/BlogPreview";
 import Loader from "../components/Loader";
 
-import { generateBlog } from "../api/blogapi";
+import { generateBlog } from "../api/blogApi";
 
 export default function Home() {
   const [loading, setLoading] = useState(false);
