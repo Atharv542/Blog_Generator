@@ -32,7 +32,7 @@ export default function BlogPreview({ data, setData }) {
     setLoadingEdit(true);
 
     try {
-      const res = await fetch("http://localhost:8000/edit", {
+      const res = await fetch("https://blog-generator-w5rl.onrender.com/edit", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
